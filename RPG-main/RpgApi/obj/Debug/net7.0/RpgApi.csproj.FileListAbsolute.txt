@@ -1,0 +1,99 @@
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\appsettings.json
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\RpgApi.exe
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\RpgApi.deps.json
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\RpgApi.dll
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\RpgApi.pdb
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vinicius F Matheus D\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.dll
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.pdb
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\Vinicius F Matheus D\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.dll
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.pdb
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\appsettings.json
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\RpgApi.exe
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\RpgApi.deps.json
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\RpgApi.dll
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\RpgApi.pdb
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ysabela - Maria Clara\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\Ysabela - Maria Clara\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\appsettings.Development.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\appsettings.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\RpgApi.exe
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\RpgApi.deps.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\RpgApi.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\RpgApi.pdb
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.pdb
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\3AI\Maria - Ysa\RPG-main\RPG-main\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
